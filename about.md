@@ -1,24 +1,43 @@
 ---
 layout: default
-title: About Long Haul
+title: About
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About Lion</h1>
+	<center><img src="{{ '/assets/img/lion.jpg' | prepend: site.baseurl }}" alt=""></center>
+	<p class="intro"></p>
+  <h2>Activity</h2>
+  <ul>
+    <li>2007.04 ~ <a href="https://www.navercorp.com" target="_blank">NAVER</a> Software Enigneer, News Service</li>
+    <li>2001.12 ~ Snowboarding, High1</li>
+    <li>2013.04 ~ Scuba Diving, <a href="https://www.gue.com" target="_blank">GUE</a></li>
+  </ul>
+	<h2>Meaning of Life</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+		<li>Enjoy Life</li>
+		<li>Pleasure Together</li>
+    <li>Dreaming of an Altruistic Life</li>
+	</ul>
 </div>
+
+<!--
+  ~~~java
+public class AboutSample {
+    interface Basic {void info (String key, String value);}
+    public static void main(String[]args) {
+        Basic basic = (String key, String value) -> System.out.println(key + " : " + value);
+        basic.info("name", "lion kang");
+        basic.info("work", "software engineer by naver");
+        basic.info("mail", "lionkang &#64; gmail.com");
+    }
+}
+~~~
+
+~~~python
+if __name__ == "Meaning of Life" : 
+  print("");
+  print("pleasure together");
+  print("dreaming of an altruistic life");
+~~~
+-->
