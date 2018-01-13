@@ -14,10 +14,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Thinking
-   url: /thinking
- - title: Enjoy
-   url: /enjoy
+ - title: Categorys
+   url: /categorys
+ - title: Tags
+   url: /tags
  - title: About
    url: /about
  
