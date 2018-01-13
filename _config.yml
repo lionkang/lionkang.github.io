@@ -14,11 +14,13 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: Thinking
+   url: /thinking
+ - title: Enjoy
+   url: /enjoy
  - title: About
    url: /about
- - title: Contact
-   url: /contact
-
+ 
 social:
    github: lionkang
    twitter: lionkang
