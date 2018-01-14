@@ -10,5 +10,6 @@ title: Categories
 			<a href="./tour">Tour</a>
 		</li>
 		<li><a href="./movie">Movie</a></li>
+		<li><a href="./reading">Reading</a></li>
 	</ul>
 </div>
