@@ -3,7 +3,7 @@ layout: post
 title: "[여행] 후쿠오카 (일본)"
 date: 2018-01-07 22:23:01 +0900
 tags: [tour,enjoy,japan,mura,fukuoka]
-categories: tour
+categories: travelling
 comments: true
 ---
 18년 첫 해외여행
