@@ -1,0 +1,48 @@
+---
+layout: post
+title: "[영화] 1987"
+date: 2018-01-20 10:20:01 +0900
+tags: [watching, movie, webtoon, 1987, 영화, 장준환]
+categories: watching
+comments: true
+---
+2018년 1월 20일(토) 오전 10시 20분, 대한극장 10관  
+
+![네이버 영화 - 1987](http://movie.phinf.naver.net/20171215_265/1513327177055W7qpm_JPEG/movie_image.jpg)
+
+### Wording
+* 동아일보 사회부장 - "경찰이 대학생을 죽였는데 뭐? 보도지침? 조 까라그래!"
+* 연희가 한열에게 - "그런다고 세상이 바뀌어요?"
+* 병용이 연희에게 - "그게 왜 그 사람들 잘못이야 그 나쁜 사장새끼 잘못이지"
+* 한열이 연희에게 - "나도 안 그러고 싶은데 너무 마음이 아파서"
+
+
+### 실존인물
+* [박처원](http://newslibrary.naver.com/viewer/index.nhn?articleId=1999111600329126011&editNo=40&printCount=1&publishDate=1999-11-16&officeId=00032&pageNo=26&printNo=16906&publishType=00010) 전) 치안감  ![박처원](http://blogfiles2.naver.net/MjAxODAxMDVfNTEg/MDAxNTE1MTQyMDI0MjE3.Ub8NwxA7W0-K49cum-TYqqMzj4pzQeC7fE5H1BAPcfog.ql8QTUZgYcPJ54K4EmaAqSjJhJXVS1QT8mM258MRYGsg.PNG.taehyun0401/2018-01-05_17%3B12%3B18_0.png)
+  * [치안감](https://namu.wiki/w/%EC%B9%98%EC%95%88%EA%B0%90) 은 치안총감, 치안정감 다음의 3번째 위치다. 군대로 따지면 사단장 급으로 볼 수 있다.
+  * 고문기술자 이근안의 도주를 도운 혐의를 받고 있다. 박처원의 오른팔이 이근안 경감이다.
+  * 88년에 정년퇴직을 했다. 퇴직금 및 연금 혜택을 받고 있다. ㅡㅡ;
+  * 93년 징역 1년 6월 집행유예 3년
+* [강민창](http://newslibrary.naver.com/viewer/index.nhn?articleId=1988011500329211004&editNo=3&printCount=1&publishDate=1988-01-15&officeId=00032&pageNo=11&printNo=13015&publishType=00020) 전) 치안본부장  ![강민창](https://postfiles.pstatic.net/MjAxODAxMTZfMjk3/MDAxNTE2MDY0MTk0MjAx.g_kZLD4jrwMg0PUXVHNvshUxB_3Vas5OnSGTH-WgnU0g.TgwhS4JMkjxQKRrReiDt6Ml22gt1w-Y_p0hvtjVYmbwg.JPEG.bundo63/l_2018011501001923800149851.jpg?type=w2)
+  * 93년 징역 8월 집행유에 2년
+* [대공수사 형사들](http://newslibrary.naver.com/viewer/index.nhn?articleId=1987070400329211001&editNo=3&printCount=1&publishDate=1987-07-04&officeId=00032&pageNo=11&printNo=12851&publishType=00020)
+  * 조한경(당시 41세) 징역 10년, 94년 가석방
+  * 강진규(당시 29세) 징역 8년, 92년 가석방
+  * 반금곤(당시 41세) 징역 6년, 91년 가석방
+  * 황정웅(당시 44세) 징역 5년, 90년 가석방
+  * 이정호(당시 29세) 징역 3년
+* 결국 상위 조직장들은 책임을 하나도 지지 않고 그 아래에 있던 '받들겠습니다!'만 반복하는 실무자들만 처벌 받은셈
+* 박처원이나 강민창의 경우는 집행유예로 지금까지도 잘 살고 있다고 한다. 권력은 아직도 유효한건가? 그리고 과연 징역형을 받은 고문 형사들은 지금은 자신들의 죄를 뉘우치고 있을까?
+* [사사in "박종철 사건 기록을 다시 찾아보는 이유"](http://www.sisain.co.kr/?mod=news&act=articleView&idxno=23593)  ![당시지휘라인](http://ph.sisain.co.kr/news/large/201506/23593_46191_5027.jpg)
+* [나무위키 "박종철 고문치사 사건"](https://namu.wiki/w/%EB%B0%95%EC%A2%85%EC%B2%A0%20%EA%B3%A0%EB%AC%B8%EC%B9%98%EC%82%AC%20%EC%82%AC%EA%B1%B4)
+* [나무위키 "박종철 고문치사 사건 이후 가해자들은"](https://namu.wiki/w/%EB%B0%95%EC%A2%85%EC%B2%A0%20%EA%B3%A0%EB%AC%B8%EC%B9%98%EC%82%AC%20%EC%82%AC%EA%B1%B4#s-2.6)
+
+
+### 생각들
+* 크게 생각해보면 상위의 부당한 지시나 회유, 더욱이 폭력행사등에 대해서는 거부해야하며 당연히 이를 제지해야한다는 것이다.
+* 사건에 가담했던 사람들은 벌을 제대로 받지 않고, 모두 잘 지내는 것같다. 이를 바로 잡을 수는 없는 것일까?
+* 전두환 정권시절의 모진 고초를 겪은 사람이 한두 사람이 아닐터, 이들에 대한 재심과 보상은 어떻게 되는 것일까? 이러한 일을 잘 마무리해야지 '정의가 바로 세워졌다' 고 얘기할 수 있지 않을까? 
+* 영화 음악에 대해서 '그날이 오면' 이후 김태리가 직접 부른 노래 유재하여 '가리워진 길' 그 노래 말고 다른 노동요 였으면 어땠을까 생각해본다.
+* 가장 울컥했던 장면은 동아일보 사회부장의 일갈때였다. "경찰이 대학생을 죽였는데 뭐? 보도지침? 조 까라그래!" 
+* 한열이 연희에게 "나도 안 그러고 싶은데 너무 마음이 아파서" 너무도 솔직한 얘기였다. 어쩌면 저 시대엔 모두가 그러한 심정이었으리라 ...
+
