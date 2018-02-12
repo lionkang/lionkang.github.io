@@ -12,5 +12,6 @@ title: Categories
 		<li><a href="./watching">Watching</a></li>
 		<li><a href="./reading">Reading</a></li>
 		<li><a href="./thinking">Thinking</a></li>
+		<li><a href="./diving">Diving</a></li>
 	</ul>
 </div>
