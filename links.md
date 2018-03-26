@@ -24,5 +24,10 @@ title: Links
 	<ul>
 		<li><a href="http://ppss.kr/archives/61578" target="_blank">ㅍㅍㅅㅅ. 자본론</a> <span style="font-size:14px">11장의 카드로 최대한 쉽게 “자본론”을 풀어보다.</span></li>
 	</ul>
+	<h2>jekyll theme</h2>
+	<ul>
+		<li><a href="https://github.com/brianmaierjr/long-haul" target="_blank">Long Haul</a> <span style="font-size:14px">A minimal, type-focused Jekyll theme.</span></li>
+		<li><a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a> <span style="font-size:14px">A content-first, sliding sidebar theme for Jekyll.</span></li>
+	</ul>
 
 </div>
