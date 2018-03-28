@@ -1,6 +1,5 @@
 ---
-layout: default 
-permalink: /tags/
+layout: page
 title: Tags
 ---
 <ul class="tag-cloud">

@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: page
 title: Links 
 ---
-
 <div class="post">
-
-	<h1 class="pageTitle">Links</h1>
 	<h2>bLOGs</h2>
 	<ul>
 		<li><a href="http://www.gyuhang.net/" target="_blank">GYUHANG.NET</a> <span style="font-size:14px">2004, 1998, 야간비행, 저 너머 세상을 향하여..</span></li>
