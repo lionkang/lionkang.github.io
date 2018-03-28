@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Categories
 ---
-
 <div class="post">
-	<h1 class="pageTitle">Categories</h1>
 	<ul>
 		<li><a href="./travelling">Travel</a></li>
 		<li><a href="./watching">Watching</a></li>

@@ -1,15 +1,16 @@
 title: Feliz La Vida
-description: lion blog
+description: Enjoy Life <br> Pleasure Together <br> Dreaming of an Altruistic Life 
 
 url: http://lionkang.github.io
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+#paginate_path: "blog/page:num/"
+#permalink: blog/:title/
+permalink: pretty
 
-markdown: kramdown
-highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
+#markdown: kramdown
+#highlighter: rouge
+#gems: [jekyll-paginate]
+#paginate: 5
 
 navigation:
  - title: Home
@@ -30,3 +31,21 @@ social:
    email: lionkang@gmail.com
 
 google_analytics: "UA-116176149-1"
+
+
+#title:               Lanyon
+#tagline:             'A Jekyll theme'
+#description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+#url:                 http://lanyon.getpoole.com
+#baseurl:             ''
+gems: [jekyll-paginate]
+paginate:           3
+
+# About/contact
+author:
+  name:              LionKang
+  url:               https://twitter.com/lionkang
+  email:             lionkang@gmail.com
+
+# Custom vars
+version:             1.0.1

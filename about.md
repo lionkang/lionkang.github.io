@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: About
 ---
-
 <div class="post">
-	<h1 class="pageTitle">About Lion</h1>
 	<center><img src="{{ '/assets/img/lion.jpg' | prepend: site.baseurl }}" alt=""></center>
 	<p class="intro"></p>
   <h2>Activity</h2>
@@ -20,24 +18,3 @@ title: About
     <li>Dreaming of an Altruistic Life</li>
 	</ul>
 </div>
-
-<!--
-  ~~~java
-public class AboutSample {
-    interface Basic {void info (String key, String value);}
-    public static void main(String[]args) {
-        Basic basic = (String key, String value) -> System.out.println(key + " : " + value);
-        basic.info("name", "lion kang");
-        basic.info("work", "software engineer by naver");
-        basic.info("mail", "lionkang &#64; gmail.com");
-    }
-}
-~~~
-
-~~~python
-if __name__ == "Meaning of Life" : 
-  print("");
-  print("pleasure together");
-  print("dreaming of an altruistic life");
-~~~
--->
