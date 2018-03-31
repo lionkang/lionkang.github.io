@@ -4,13 +4,13 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">{{ page.date | date_to_string }}, {% if page.comments %}<a href="{{ site.url }}{{ page.url }}#disqus_thread">Comments</a>{% endif %}</span>
   {% include post_tags.html %}
   <br />
   {{ content }}
 </div>
 
-{% include disqus_comments.html %}
+{% if page.comments %}<div id="disqus_thread"></div>{% endif %}
 
 <div class="related">
   <h2>Related Posts</h2>

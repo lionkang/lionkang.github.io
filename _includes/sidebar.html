@@ -1,5 +1,5 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-  [6nstyles, `#sidebar-checkbox` for behavior. -->
+     styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
@@ -9,7 +9,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="/">Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -24,11 +24,19 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+
   </nav>
 
   <div class="sidebar-item">
+    <p class="social-icons">
+      <a href="https://github.com/lionkang"><i class="fab fa-github fa-2x"></i></a>
+      <a href="https://twitter.com/LION32978733"><i class="fab fa-twitter fa-2x"></i></a>
+      <a href="https://www.linkedin.com/in/lion-kang-638b27159"><i class="fab fa-linkedin-in fa-2x"></i></a>
+      <!--a href="https://plus.google.com/107712815082559800507?rel=author"><i class="fa fa-plus fa-2x"></i></a-->
+      <a href="/atom.xml"><i class="fa fa-rss fa-2x"></i></a>
+    </p>
     <p>
-      &copy; 2018 Lion<br>Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, <a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a>
+      &copy; 2018 Lion<br>Powered by<br><a href="http://jekyllrb.com" target="_blank">Jekyll</a>, <a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a>, <a href="https://github.com/lanyonm/lanyonm.github.io" target="_blank">Lanyonm</a>
     </p>
   </div>
 </div>
