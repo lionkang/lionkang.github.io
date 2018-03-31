@@ -1,12 +1,6 @@
-<!--img src="/images/tag-256.png" alt="Tags: " class="tag-img"/-->Tags: 
-<div class="post-tags">
-  {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}
-  {% for tag in tags %}
-  <a href="/tags/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-</div>
-<br>
+{% if post %}
+{% assign tags = post.tags %}
+{% else %}
+{% assign tags = page.tags %}
+{% endif %}
+<div class="entry-tags">{% for tag in tags %}<a href="{{ site.url }}/tags/#{{tag|slugize}}" title="Pages tagged {{tag}}" rel="tag">{{tag}}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</div>

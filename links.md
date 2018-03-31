@@ -11,6 +11,7 @@ title: Links
 	<h2>dEVs</h2>
 	<ul>
 		<li><a href="https://madplay.github.io/" target="_blank">MadPlay</a> <span style="font-size:14px">공부하는 개발자의 이야기를 담고 있습니다.</span></li>
+		<li><a href="https://nypark425.github.io/" target="_blank">Amber</a> <span style="font-size:14px">Do Something.</span></li>
 	</ul>
 	<h2>dIVing</h2>
 	<ul>

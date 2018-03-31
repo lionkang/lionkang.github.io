@@ -5,6 +5,7 @@ date: 2018-03-24 22:04:01 +0900
 tags: [thinking, 생각, 통증, pain, surgery, 수술, 경과, 발목, 발바닥, 혈전]
 categories: thinking
 comments: true
+published: true
 ---
 그간의 경과. 2018.03.24
 

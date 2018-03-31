@@ -13,8 +13,8 @@ title: Feliz La Vida
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    
+    {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
   </div>
   {% endfor %}
 </div>

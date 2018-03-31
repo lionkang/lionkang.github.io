@@ -39,7 +39,7 @@ google_analytics: "UA-116176149-1"
 #url:                 http://lanyon.getpoole.com
 #baseurl:             ''
 gems: [jekyll-paginate]
-paginate:           3
+paginate:           5
 
 # About/contact
 author:
