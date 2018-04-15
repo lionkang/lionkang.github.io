@@ -12,6 +12,7 @@ title: Links
 	<ul>
 		<li><a href="https://madplay.github.io/" target="_blank">MadPlay</a> <span style="font-size:14px">공부하는 개발자의 이야기를 담고 있습니다.</span></li>
 		<li><a href="https://nypark425.github.io/" target="_blank">Amber</a> <span style="font-size:14px">Do Something.</span></li>
+		<li><a href="https://github.com/naverunion" target="_blank">공동성명(共動成明)</a> <span style="font-size:14px">함께 행동하는 네이버 사원 노조</span></li>
 	</ul>
 	<h2>dIVing</h2>
 	<ul>
