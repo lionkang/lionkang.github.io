@@ -21,3 +21,6 @@ comments: true
 * 김강우의 열연이 인상적이고, 시나리오도 반전과 반전을 거듭해서 나쁘지 않았다.
 * 다만 김상경의 역할이 반전을 위해서 너무 가볍게 그려진게 아닌가 한다. 
 * 죄짓고 살면 결국 벌받는다. 솔직히 진실되게 살아야 함을 생각해본 영화다.
+* 원작은 스페인 영화, 오리올 파울로 감독의 [EL Cuerpo (The Body)](https://movie.naver.com/movie/bi/mi/basic.nhn?code=99488) 이다.
+![네이버 영화 - The Body](https://movie-phinf.pstatic.net/20140424_200/1398313701939TlnGb_JPEG/movie_image.jpg)
+* 오리올 파울로 감독의 [Contratiempo (The Invisible Guest)](https://movie.naver.com/movie/bi/mi/basic.nhn?code=159516) 가 더 극적이라고 한다. 추후에 한번 봐야겠다.
