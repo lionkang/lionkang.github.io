@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[thinking] 제주 4.3"
-date: 2018-04-07 10:27:01 +0900
+date: 2018-05-05 23:55:01 +0900
 tags: [thinking, 생각, 제주, 4.3, 민간인, 학살, 이승만, 김달삼, 김익렬]
 categories: thinking
 comments: true
