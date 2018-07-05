@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 ---
 <div class="post">
 	<center><img src="{{ '/assets/img/lion.jpg' | prepend: site.baseurl }}" alt=""></center>
