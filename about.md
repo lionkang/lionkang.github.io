@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT
+title: About
 ---
 <div class="post">
 	<center><img src="{{ '/assets/img/lion.jpg' | prepend: site.baseurl }}" alt=""></center>
@@ -8,6 +8,7 @@ title: ABOUT
   <h2>Activity</h2>
   <ul>
     <li>2007.04 ~ <a href="https://www.navercorp.com" target="_blank">NAVER</a> Software Enigneer, News Service</li>
+    <li>2018.06 ~ <a href="https://www.navercorp.com" target="_blank">NAVER</a> Software Enigneer, Finance Service</li>
     <li>2001.12 ~ Snowboarding, High1</li>
     <li>2013.04 ~ Scuba Diving, <a href="https://www.gue.com" target="_blank">GUE</a></li>
   </ul>
