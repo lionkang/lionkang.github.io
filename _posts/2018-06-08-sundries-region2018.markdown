@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "[sundries] 제 7회 지방선거"
-date: 2018-07-11 04:01:01 +0900
+date: 2018-07-29 13:01:01 +0900
 tags: [sundries, 이것저것, 선거, 지방선거, 전국동시지방선거, election, region2018, 프로젝트, 선거TF, 네이버, 미디어]
 categories: sundries
 comments: true
 published: true
 ---
-제 7회 전국동시지방선거 프로젝트 이력  
+제 7회 전국동시지방선거 프로젝트 History 
 기간 : 2월 8일 ~ 6월 14일, 그린팩토리 27층 프로젝트 룸  
 1. 홈/여론조사 오픈 - 5월 15일(화) 16시 
 2. 후보자 오픈 - 5월 26일(토) 03시
