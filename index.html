@@ -4,7 +4,6 @@ title: Feliz La Vida
 ---
 <script>
 $(function() {
-  // dom ready 
   var display = 32;
   var _callback = '_callback';
 
@@ -43,27 +42,9 @@ $(function() {
     } else {
       console.log('empty recommend articles');
     }
-
-    /*
-    {
-article_type: 1,
-dt_svc: "2018-08-02 22:18:47",
-gdid: "880000E3_000000000000000002198460",
-image: "http://imgnews.naver.net/image/047/2018/08/02/0002198460_001_20180802221847163.jpg",
-office_name: "오마이뉴스",
-section_id: "103",
-title: "제주도민은 어디로 해외여행을 떠날까",
-url: "http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=103&oid=047&aid=0002198460"
-},
-    */
   });
 });
-
 </script>
-<div class="posts">
-  <span class="post-date article"></span>
-  <div class="prev-article" style="display:none;"></div>
-</div>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -96,4 +77,8 @@ url: "http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=103&oid=047&aid=000
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+</div>
+<div class="posts">
+  <span class="post-date article"></span>
+  <div class="prev-article" style="display:none;"></div>
 </div>
