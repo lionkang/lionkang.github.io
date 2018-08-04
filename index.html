@@ -3,10 +3,68 @@ layout: default
 title: Feliz La Vida
 ---
 <script>
-$(function(){
+$(function() {
   // dom ready 
+  var display = 32;
+  var _callback = '_callback';
+
+  var settingSummary = function(oid, aid) {
+    var summaryUrl = 'https://tts.news.naver.com/article/' + oid + '/' + aid + '/summary';
+    $.ajax({
+        url: summaryUrl,
+        crossDomain: true,
+        type: 'GET'
+      }).done(function(data) {
+        if (data) {
+          var summary = (data.error_msg == 'null') ? data.summary : data.error_msg;  
+          $('div.prev-article').html(summary + "<br /><br />");
+        }
+      });
+  }
+
+  $.ajax({
+    url: "https://script.google.com/macros/s/AKfycbxD9vPPd6fw10H_VQzTteS7k91J_5A092LhEtQrg35UVx3cWpg/exec?display=" + display + '&callback=' + _callback,
+    crossDomain: true,
+    dataType: 'jsonp',
+    type: 'GET',
+    jsonpCallback: _callback
+  }).done(function(data) {
+    if (data && data.result && data.result.recommend) {
+      var random = Math.floor(Math.random()*display) + 1; 
+      data.result.recommend.forEach(function(v, i, a) {
+        if (i == random) {
+          $('span.article').html('[' + v.office_name + '] <a href="javascript:;">' + v.title + '</a>');
+          settingSummary(v.url.match(/oid=([^&]+)/)[1], v.url.match(/aid=([^&]+)/)[1]);
+          $('span.article').click(function(){
+            $('div.prev-article').toggle();
+          });
+        }
+      });  
+    } else {
+      console.log('empty recommend articles');
+    }
+
+    /*
+    {
+article_type: 1,
+dt_svc: "2018-08-02 22:18:47",
+gdid: "880000E3_000000000000000002198460",
+image: "http://imgnews.naver.net/image/047/2018/08/02/0002198460_001_20180802221847163.jpg",
+office_name: "오마이뉴스",
+section_id: "103",
+title: "제주도민은 어디로 해외여행을 떠날까",
+url: "http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=103&oid=047&aid=0002198460"
+},
+    */
+  });
 });
+
 </script>
+<div class="posts">
+  <span class="post-date article"></span>
+  <div class="prev-article" style="display:none;"></div>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
