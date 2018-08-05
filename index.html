@@ -34,7 +34,7 @@ $(function() {
       data.result.recommend.forEach(function(v, i, a) {
         //settingSummary(v.url.match(/oid=([^&]+)/)[1], v.url.match(/aid=([^&]+)/)[1]);
         $('span.article').append(divArticle.replace('{0}', v.office_name).replace('{1}', v.title).replace('{2}', v.url));
-      }
+      });
 
 /*
       $('span.article').click(function(){
@@ -44,6 +44,7 @@ $(function() {
     } else {
       console.log('empty recommend articles');
     }
+    
   });
 });
 </script>
