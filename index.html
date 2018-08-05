@@ -38,7 +38,11 @@ $(function() {
         var oid = v.url.match(/oid=([^&]+)/)[1];
         var aid = v.url.match(/aid=([^&]+)/)[1];
         el.click(function() {
+          if ($('div.prev-article').css('display') == 'none') {
             settingSummary(oid, aid);
+          } else {
+            $('div.prev-article').hide();
+          }
         });
       });
 
