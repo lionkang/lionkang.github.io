@@ -17,6 +17,7 @@ $(function() {
         if (data) {
           var summary = (data.error_msg == 'null') ? data.summary : data.error_msg;  
           $('div.prev-article').html(summary + "<br /><br />");
+          $('div.prev-article').show();
         }
       });
   }
@@ -32,15 +33,16 @@ $(function() {
       // 
       var divArticle = '<div class="article" style="display:none;">[{0}] <a href="javascript:;">{1}</a></div>';
       data.result.recommend.forEach(function(v, i, a) {
-        $('span.article').append(divArticle.replace('{0}', v.office_name).replace('{1}', v.title).replace('{2}', v.url));
+        var el = $(divArticle.replace('{0}', v.office_name).replace('{1}', v.title));
+        $('span.article').append(el);
+        var oid = v.url.match(/oid=([^&]+)/)[1];
+        var aid = v.url.match(/aid=([^&]+)/)[1];
+        el.click(function() {
+            settingSummary(oid, aid);
+        });
       });
 
       refresh();
-
-      $('span.article').click(function() {
-        //settingSummary(v.url.match(/oid=([^&]+)/)[1], v.url.match(/aid=([^&]+)/)[1]);
-      });
-
     } else {
       console.log('empty recommend articles');
     }
@@ -48,6 +50,8 @@ $(function() {
   });
 
   var refresh = function() {
+    $('div.prev-article').hide();
+    $('div.prev-article').html('');
     $('span.article div').filter('.article').css('display', 'none');
     var random = Math.floor(Math.random()*display) + 1; 
     $($('div.article').toArray()[random-1]).toggle();
