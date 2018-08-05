@@ -4,7 +4,7 @@ title: Feliz La Vida
 ---
 <script>
 $(function() {
-  var display = 32;
+  var display = 8;
   var _callback = '_callback';
 
   var settingSummary = function(oid, aid) {
@@ -29,23 +29,28 @@ $(function() {
     jsonpCallback: _callback
   }).done(function(data) {
     if (data && data.result && data.result.recommend) {
-      var random = Math.floor(Math.random()*display) + 1; 
+      // var random = Math.floor(Math.random()*display) + 1; 
+      var divArticle = '<div class="article" style="display:;">[{0}] <a href="{2}">{1}</a></div>';
       data.result.recommend.forEach(function(v, i, a) {
-        if (i == random) {
-          $('span.article').html('[' + v.office_name + '] <a href="javascript:;">' + v.title + '</a>');
-          settingSummary(v.url.match(/oid=([^&]+)/)[1], v.url.match(/aid=([^&]+)/)[1]);
-          $('span.article').click(function(){
-            $('div.prev-article').toggle();
-          });
-        }
-      });  
+        //settingSummary(v.url.match(/oid=([^&]+)/)[1], v.url.match(/aid=([^&]+)/)[1]);
+        $('span.article').append(divArticle.replace('{0}', v.office_name).replace('{1}', v.title).replace('{2}', v.url));
+      }
+
+/*
+      $('span.article').click(function(){
+        $('div.prev-article').toggle();
+      });
+*/
     } else {
       console.log('empty recommend articles');
     }
   });
 });
 </script>
-
+<div class="posts">
+  <span class="post-date article"></span>
+  <div class="prev-article" style="display:none;"></div>
+</div>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -77,8 +82,4 @@ $(function() {
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
-<div class="posts">
-  <span class="post-date article"></span>
-  <div class="prev-article" style="display:none;"></div>
 </div>
