@@ -35,6 +35,8 @@ $(function() {
         $('span.article').append(divArticle.replace('{0}', v.office_name).replace('{1}', v.title).replace('{2}', v.url));
       });
 
+      refresh();
+
       $('span.article').click(function() {
         //settingSummary(v.url.match(/oid=([^&]+)/)[1], v.url.match(/aid=([^&]+)/)[1]);
       });
@@ -56,7 +58,9 @@ $(function() {
 });
 </script>
 <div class="posts">
-  <img class="refresh" src="{{ '/assets/img/refresh-flat.png' }}" width="30" height="30" style="margin-top: 0px; margin-bottom: 0px;" /><span class="post-date article"></span>
+  <span class="post-date article">
+    <img class="refresh" src="{{ '/assets/img/refresh-flat.png' }}" width="30" height="30" style="margin-top: 0px; margin-bottom: 0px;" />
+  </span>
   <div class="prev-article" style="display:none;"></div>
 </div>
 <div class="posts">
