@@ -58,6 +58,14 @@ $(function() {
       });
   }
 
+  var refresh = function() {
+    $('div.prev-article').hide();
+    $('div.prev-article').html('');
+    $('span.article div').filter('.article').css('display', 'none');
+    var random = Math.floor(Math.random()*display) + 1; 
+    $($('div.article').toArray()[random-1]).toggle();
+  }
+
   $.ajax({
     url: "https://script.google.com/macros/s/AKfycbxD9vPPd6fw10H_VQzTteS7k91J_5A092LhEtQrg35UVx3cWpg/exec?display=" + display + '&callback=' + _callback,
     crossDomain: true,
@@ -67,6 +75,8 @@ $(function() {
   }).done(function(data) {
     if (data && data.result && data.result.recommend) {
       $('span.article').append("<img class=\"refresh\" src=\"{{ '/assets/img/refresh-flat.png' }}\" width=\"30\" height=\"30\" style=\"float:left;margin-top: 0px; margin-bottom: 0px; margin-right: 5px;\" />");
+      $('img.refresh').click(refresh);
+
       var divArticle = '<div class="article" style="display:none;">[{0}] <a href="javascript:;">{1}</a></div>';
       data.result.recommend.forEach(function(v, i, a) {
         var el = $(divArticle.replace('{0}', v.office_name).replace('{1}', v.title));
@@ -88,16 +98,6 @@ $(function() {
     }
     
   });
-
-  var refresh = function() {
-    $('div.prev-article').hide();
-    $('div.prev-article').html('');
-    $('span.article div').filter('.article').css('display', 'none');
-    var random = Math.floor(Math.random()*display) + 1; 
-    $($('div.article').toArray()[random-1]).toggle();
-  }
-
-  $('img.refresh').click(refresh);
 
 });
 </script>
