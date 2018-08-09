@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[독서] 1억배 빠른 양자 컴퓨터가 온다"
-date: 2018-07-18 14:03:59 +0900
+date: 2018-08-09 22:03:59 +0900
 tags: [reading, 독서, 컴퓨터, 양자, 양자역학, 니시모리 히데토시, 인공지능, 어닐링, D-Wave]
 categories: reading
 comments: true
