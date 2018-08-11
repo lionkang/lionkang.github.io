@@ -1,13 +1,37 @@
 ---
 layout: default
 ---
-
 <div class="post">
+  <div class="post-info">
+    {% if page.author %}
+      <span>Written by</span>
+        {{ page.author }}
+    {% endif %}
+
+    {% if page.date %}
+      <br>
+      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+
+    {% if page.comments %}, <a href="{{ site.url }}{{ page.url }}#disqus_thread">Comments</a>{% endif %}
+    {% include post_tags.html %}
+  </div>
+
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}, {% if page.comments %}<a href="{{ site.url }}{{ page.url }}#disqus_thread">Comments</a>{% endif %}</span>
-  {% include post_tags.html %}
-  <br />
+  <div class="post-line"></div>
+
   {{ content }}
+</div>
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
 </div>
 
 {% if page.comments %}<div id="disqus_thread"></div>{% endif %}
