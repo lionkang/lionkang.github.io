@@ -23,6 +23,8 @@ navigation:
    url: /links
  - title: About
    url: /about
+ - title: Maxim
+   url: /maxim
  
 social:
    github: lionkang
