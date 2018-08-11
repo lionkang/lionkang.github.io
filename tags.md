@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Tags
-description: "An archive of posts sorted by tag."
+layout: etc
+title: "Tags"
+permalink: /tags/
 ---
-
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_tags: {{ site_tags }} -->
 {% assign tag_words = site_tags | split:',' | sort %}

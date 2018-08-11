@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Categories
+layout: etc
+title: "Categories"
+permalink: /categorys/
 ---
 {% assign categorys_str = "travelling,watching,reading,thinking,diving,sundries" %}
 {% assign categorys = categorys_str | split:',' %}

@@ -1,53 +1,29 @@
+# Site settings
 title: Feliz La Vida
 description: Enjoy Life <br> Pleasure Together <br> Dreaming of an Altruistic Life 
-
-url: https://lionkang.github.io
 baseurl: ""
-#paginate_path: "blog/page:num/"
-#permalink: blog/:title/
-permalink: pretty
+url: https://lionkang.github.io
 
-#markdown: kramdown
-#highlighter: rouge
-#gems: [jekyll-paginate]
-#paginate: 5
-
-navigation:
- - title: Home
-   url: /index.html
- - title: Categorys
-   url: /categorys
- - title: Tags
-   url: /tags
- - title: Links
-   url: /links
- - title: About
-   url: /about
- - title: Maxim
-   url: /maxim
- 
-social:
-   github: lionkang
-   twitter: lionkang
-   facebook: mario.kang.75
-   email: lionkang@gmail.com
-
-google_analytics: "UA-116176149-1"
-
-
-#title:               Lanyon
-#tagline:             'A Jekyll theme'
-#description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-#url:                 http://lanyon.getpoole.com
-#baseurl:             ''
-gems: [jekyll-paginate]
-paginate:           5
-
-# About/contact
+# Author
 author:
-  name:              LionKang
-  url:               https://twitter.com/lionkang
-  email:             lionkang@gmail.com
+  name: LionKang
+  url: https://www.facebook.com/mario.kang.75
+  email: lionkang@gmail.com
 
-# Custom vars
-version:             1.0.1
+# Build settings
+markdown: kramdown
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate: 5
+
+# Google analytics
+google_analytics: "UA-116176149-1"
