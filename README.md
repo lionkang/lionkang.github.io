@@ -3,3 +3,5 @@
 - social 
   - https://www.facebook.com/mario.kang.75
   - https://www.instagram.com/feliz.lion/
+- photo
+  - https://www.flickr.com/people/lionkang/
