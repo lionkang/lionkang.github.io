@@ -25,6 +25,7 @@ permalink: /links/
 <h2>eTC</h2>
 <ul>
 	<li><a href="http://ppss.kr/archives/61578" target="_blank">ㅍㅍㅅㅅ. 자본론</a> <span style="font-size:14px">11장의 카드로 최대한 쉽게 “자본론”을 풀어보다.</span></li>
+	<li><a href="https://earth.nullschool.net/" target="_blank">earth.nullschool.net</a> <span style="font-size:14px">a project to visualize global weather conditions</span></li>
 </ul>
 <h2>jekyll theme</h2>
 <ul>
