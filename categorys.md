@@ -3,7 +3,7 @@ layout: etc
 title: "Categories"
 permalink: /categorys/
 ---
-{% assign categorys_str = "travelling,watching,reading,thinking,diving,sundries" %}
+{% assign categorys_str = "travelling,watching,reading,thinking,diving,sundries,tech" %}
 {% assign categorys = categorys_str | split:',' %}
 {% for category in categorys %}
 <div cass="post">
