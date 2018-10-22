@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[다이빙] 동해 대심도 다이빙 사고"
+title: "동해 대심도 다이빙 사고"
 date: 2018-10-22 21:15:59 +0900
 tags: [sundries, 다이빙, 스쿠버다이빙, 사고, 대심도, 동해, 인투더씨다이브]
 categories: sundries
 comments: true
 ---
-[\[종합\]강릉서 30대 스쿠버다이버 그물에 걸려 숨져](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=003&aid=0008869433&sid1=001)
+[강릉서 30대 스쿠버다이버 그물에 걸려 숨져](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=003&aid=0008869433&sid1=001)
 
 ### Wording
 - 다이빙진행샵 코멘트   
