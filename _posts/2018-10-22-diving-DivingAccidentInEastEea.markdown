@@ -9,7 +9,7 @@ comments: true
 [강릉서 30대 스쿠버다이버 그물에 걸려 숨져](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=003&aid=0008869433&sid1=001)  
 
 ### Wording
-- 다이빙진행샵 코멘트   
+- 사고관련 설명
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhwangkun.oh%2Fposts%2F2006381046049300&width=500" width="500" height="444" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 - 어드밴드 트라이믹스 교육중 사고
 - 개인적으로 몇번 인사를 한적이 있어서 더 안타깝다.
