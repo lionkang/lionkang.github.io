@@ -35,3 +35,7 @@ permalink: /links/
 	<li><a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a> <span style="font-size:14px">A content-first, sliding sidebar theme for Jekyll.</span></li>
 	<li><a href="https://github.com/chesterhow/tale" target="_blank">tale</a> <span style="font-size:14px">Tale is a minimal Jekyll theme curated for storytellers</span></li>
 </ul>
+<h2>Github</h2>
+<ul>
+	<li><a href="https://status.github.com/messages" target="_blank">github:status</a> <span style="font-size:14px">We continuously monitor the status of github.com and all its related services. If there are any interruptions in service, a note will be posted here.</span></li>
+</ul>
