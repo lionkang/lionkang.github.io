@@ -16,7 +16,10 @@ comments: true
 - 삼가 고인의 명복을 빈다.
 - 관련한 다이빙 얘기한조각
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D745018022499422%26id%3D100009736925139%26substory_index%3D1&width=500" width="500" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
+- 담당강사 및 교육생 총 2명이 입수한것으로 보이는데
+- 나머지 한분의 경우는 어떻게 되었을까? 
+- 감압플랜을 맞추어 상승을 했다면 괜찮겠지만 급상승이었다면 그분도 위험하지 않을런지 ... 
+  - 아시는분이 있다면 공유좀 부탁드립니다.
 
 ### Thinking
 - 요즘 죽음에 대한 생각들이 많은 편이라 이번 사고가 또 다른 생각을 하게끔 한다.
