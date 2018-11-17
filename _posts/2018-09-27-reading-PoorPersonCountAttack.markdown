@@ -3,7 +3,7 @@ layout: post
 title: "[독서] 가난뱅이의 역습"
 date: 2018-09-27 23:59:59 +0900
 tags: [reading, 독서, 가난뱅이의 역습, 마쓰모토 하지메, 최규석, 하류인생, 가난뱅이]
-categories: watching
+categories: reading
 comments: true
 ---
 무일푼 하류인생의 통쾌한 반란  
