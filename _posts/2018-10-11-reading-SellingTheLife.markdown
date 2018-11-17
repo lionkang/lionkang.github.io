@@ -3,7 +3,7 @@ layout: post
 title: "[독서] 라이프 스타일을 팔다"
 date: 2018-10-11 22:00:59 +0900
 tags: [reading, 독서, 라이프 스타일을 팔다, 다이칸야마 프로젝트, 츠타야, 서점, 마스다 무네아키]
-categories: watching
+categories: reading
 comments: true
 ---
 다이칸야마 프로젝트   
