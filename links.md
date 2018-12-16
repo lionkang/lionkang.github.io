@@ -28,7 +28,11 @@ permalink: /links/
 	<li><a href="http://ppss.kr/archives/61578" target="_blank">ㅍㅍㅅㅅ. 자본론</a> <span style="font-size:14px">11장의 카드로 최대한 쉽게 “자본론”을 풀어보다.</span></li>
 	<li><a href="https://earth.nullschool.net/" target="_blank">earth.nullschool.net</a> <span style="font-size:14px">a project to visualize global weather conditions</span></li>
 	<li><a href="https://www.windy.com" target="_blank">www.windy.com</a> <span style="font-size:14px">Our goal is to provide best weather forecasting service in the world</span></li>
+	<li><a href="https://www.youtube.com/channel/UCET3I7YOuGTO31OlYdg2B_w" target="_blank">신세경 sjkuksee</a> <span style="font-size:14px">진사누나 신세경입니다.</span></li>
+	<li><a href="https://www.socialfunch.org/" target="_blank">소셜 펀치</a> <span style="font-size:14px">‘소셜펀치’는 사회운동을 위한 온라인 후원 플랫폼입니다.</span></li>
+	<li><a href="https://map.naver.com/local/siteview.nhn?code=20415592&_ts=1544934079860" target="_blank">두리산업</a> <span style="font-size:14px">폐기물수집,처리</span></li>
 
+	
 </ul>
 <h2>jekyll theme</h2>
 <ul>
