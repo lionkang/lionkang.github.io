@@ -1,0 +1,103 @@
+---
+layout: post
+title: "[여행] 다카마츠"
+date: 2018-12-25 23:59:01 +0900
+tags: [tour,enjoy,일본,다카마츠,카가와,우동,닛산,LOOKS,사누키우동]
+categories: travelling
+comments: true
+---
+18년 여섯째 해외여행. 다카마츠  
+
+### Schedule
+* 2018.12.22 08:30 RS704 in
+* 2018.12.25 17:25 RS703 out
+* 22일 : J넷 렌트카 수령(닛산 LOOKS), 岡製麺所, 다이와 로이네트 check in, 마루가메마치
+* 23일 : うどん本陣山田家本店, Tenkaichi
+* 24일 : 사누키우동 우에하라야본점, 리스린 정원
+* 25일 : check out, 우동 바카이치다이
+
+### Photos
+* 인천공항 출국장, 한국을 떠나는 사람들이 많다.
+![](https://lh3.googleusercontent.com/ngj-W3lM7u8dPsbVsAQblU3R3t9aLGLm2cMeHJB4-rzPQ5E_rh93RrEIA3U7UFjWAAwUKov8DvryQZTzF1yXOn6aqlT_0_m6Hf1_03_N4WlMkyUVmjFuZULm7icqDFQBWXzTNWiQqNqKTkYbLrDJjrNX4Fs52SXisJhtN_nx_7UKr3YaMVei28QyjkzCKSHnTYme3vyNJaIPUmCq0_JgPIb1XUt2klMeoLjFhk1RohdVouP86NomYUZXbtnwvJ3Q0fBgWiRcCaBviI1mwoZPap1mqVmZV5KMRQeQCgD4R0pAcg4fl6IG2v6q4f0A4d7_O6GZr_Fpbw8ErHX2FiYt5DakC3YaJ6zT-wuZBwwLRsdQ4o5tCP2av_QKIYKDh7XoPLG8vNNyZRn49zHaAQrnilP_XTs8KKIEw10ISE7YTaUzKzXlg_55VEO7NanoYAEtENBv_L0MRs63UZpSRp3psSnPJgKM7o9qv9_hVTTiNcThIQBZ05ZN85oE1HjKdvXRKQt4E3Rm2HG2LNGgkSfScqP6yUGBKXe1I37oAhgu_rsAnOoh11Lvz-tZ2GIN9HqLDSY4c2XMd7ivqhZpdf1hM2UG3lV10oY1Ge_gyttjqzQh8Q-HG3EQKYOxz_7tJ88Bk2dFpl0VJsDfUjgC4ZdEvieV6POFWqQEjWouDj3ek75CW76loHvETg50XInzhbS_9BzO_lganAYgxf6E4gk=w1608-h1206-no)
+* 이번에 함께한 차량, 닛산룩스 경차 (조수석엔 누규...?)
+![](https://lh3.googleusercontent.com/cy1C9SeqMGCg3DDSOpt-df8WzR4nnW6MOpnKPQqGC9fLrX4vhBcBIbb6c1EcLwWMLttyNwKiDWccSoaHzVSB0GfNOb682DNkTPRi4Ky_v-nqjieD_wsc46FenAm3ENpL6awm45kXT8orp_TpPTF99nDqm2akc1tOIS_OPPkAmN40SuT-4iawwjhfxK8HfICBXK4q9BrDEqNtLYF8NEL33Ym_MWpg1pLH-A5H4edmmu_vgyGI_6DC8_bUjkts7rCQdKY6K3-lZzScSROLkZITX5uDnPSF0QsE9i4K6xNQi17Q5UYRZw748U1H3nzx2qtJSW42BqNphXcvXKNA9GH6UIF4h2VUJYmoW-4-YhKsadXHBmr112xI80-prYYFLyKF20n_an-9Tux6IPdTqneOIGHdr7-AIBmLUZgGCRojwJuj_uSrT-Iz_gYzpJ0iR_0lyB_kvslggtlntD8TDoJ1yOsKj2yVwNHYSKQybwNg_OqWZejou9eqhDTr6bARJs8PIy68htl--L4msNFOF91OlPglC8DkfZ4IO7hWe72YtRUAC_f6jxraoI8g4DM78GF4sY4gyM0ov9vU1CZsAFhFTFMluFFecUjph6LnIfr2SMK_A5uOPws6cn5WDCDACceqgkG_vHEcnJNAv0Uab5UIqkZzLQE3iMMqWxC5GLB93a5Ga4SxepZw1DJchbViLbp4gtKnZhzk1wQ93fjfENM=w1422-h1896-no)
+* 첫날 우동집, [岡製麺所](https://goo.gl/maps/nkTu4WAprqu), 면발 쫄깃쫄깃 튀김도 바삭바삭
+![](https://lh3.googleusercontent.com/aX4Fe76xvFAwcDim01SNHeC84yz0-ym5bxcC2bA6qfUOx9loi73aPu41MsuVLfI7sEyKqO2SxsTEY-PVDlOoQbbNCTRfBXkX5KonREU4zGmxSVBH4ZKZSRAlj0V8kL2TrWp2h6Ko2B6vCcyHVhwukxZUVDwComh77SN_jWCWoJvvQhfsPfxH9ndbuPyp5_ENkembE1gIyfr1whGhsKR2nh86Fza7g3ksf-Edt-5IYulmUk8gySc4OSaNlD-A4RV04yArU6HWO3bQbQQL_-pN2WIquustbfYa8V5_CoFofGtIXxmDHIUv4ndG-tG_f_CzEzkuwOBdOASFD_iB6VPsR74ppycOHV9kZamDcIkTJHgZrB0KV2uN3sN_C3jVwnIjLj-Zfox067RSlEcVCGc7XT4mHjQK26tGQVUffhrJCVdXyH4pMlHJ6ZYxBtVJpMCjEPhxqN1TAeeimWMmHpuIbSyYjj48W8_gYaIRgaB6ppDr0N0vBRVx8oLbqCZdeytvDLv2Pis7aQKhFhCpy90jSSzVpeL9_i1sm0QgZT86dFA4U7bBairx45EMShGX_TqT3SoP-sks1vwl5HHnxD70HuGrqFwDkR5lmn6xJFCUxbmIkyBQck00V9yCA213EyImV8GEnH2ELeNP-zM2m13l6_ocz8U6kyE6sylf6v95_4ClMH_byY3emy9xmUC57sJKynhER0C5lZrv2rpDfPQ=w1608-h1206-no)
+* 쇼핑타운([마루가메마치 그린](https://goo.gl/maps/QfkdiNeANX42))내 스타벅스, 크리스마스날에는 라이브 공연도 
+![](https://lh3.googleusercontent.com/yYjLxbxV3UuTtVZqyghcwT7loPSgKJoXYqyoM_-AHwP14v01R98cjRLI6E0p-WchcSfSz91dk_qirWcHd1lQHUfxn2vXVnQTPzVVwULTAZ08PhEVFbmIuzCPhzfxWtGrVhGJnxbNa8zwVdZbNouKnbsaqb-xYPj3EA8qq3Fimhra3BnWcF4auBwfNH1abKZD6euhbOO8pVstW2wpgcECt_uwK1NFTgQH1KlVc7qrnzlkS2r6rC9OI3mW4zVmgXUDymL4npY80EARAloFvdzGWRCxSLx-aKQXrSKHJWausbNWjcMV-UBrbovccl-LCywaFd3sWIudiU2zQR2w4_lwKe9-BbnAzg1RoOaEVjAKGMqQrN4dRMXCjn34mBt4oahDIBEhcmbzv8-GACASb6AMPwpqJRmJWKkc3BW5va7AaeKCBxhIa1SPmbw5wdIjJYePrO5AjGPTlPNwKifsHLyb-THu4d_eddG3x2C6ZVH4KAnzfZ3-ZMmbqmPwyEpNPavviNDXPxwXbhtngTMZVjvYX06wMAzvezKatQhz24Oj31AE8JLtL3UvDjnDZ3uPbw_wGXzj99U_cD2Xq1Y60rVl1Lqls80QCbA7sOs8CK2yAke1DFoFQX2h8ksMR6eaK82G-0ftRtR2HyZKqYFOH5UGuVZ057kdWfCfM9LiW3SynkTmWW8tENbc__IwW53n-7t1u4rwQn2SBiwVlxSgWCE=w1608-h1206-no)
+* 우리가 애정하는 브랜드 ZARA, 이번에도 쇼핑을 ...
+![](https://lh3.googleusercontent.com/Esy43yVsbnQhIy1VERdmzVa3BKqWBJZJ23uFn1wdwKpZPI6XrvCWsJV4mMsR8tz9MvgVPWq32BfFn6CxcCgaQ5i7AfF0S2OUc0MsHh2iRxmIrVfTIqpigGKWBDDgrjexQbrjmLEGoF6g03qw-spnK_rklp4S8WX8riSjdsVCpGsZHyohmQh29jPgs_14I7sIzi2ZjbGg02edHyPrmkxhkK9APneIXRM_UQhiN2zKelnfvbgwPManbB-T3eUbMlNRs855GH-ZIXUSVH3Gi8uDi9aZl15vFU8UFS3C_-wwqYPRFtRyvrqet8r-X1GGB_NWnP2E3-g8-m7D3X5rBd4V_V1FlseUI-60fjd2zbnzK2hK04xAbN75AFNWs8Qt10Z6bVPIDfjs4I0VnSutO3MR_98UwA_6vt2p1V_uMx0eeC1AuIEXyEo9SNwg6tE8BzwBuHCV_aObD_Aw1ftcHx1DQ5oFJeU5Ie11XBT4ntWOTFdbBI57W4z0_e0Zl0FyH49DkvdGtQohmT6uHTPrn6bjI1B-kyZyNUGJTC-S7IJ3Lx5lzPzk1Ylmi4mwmgPZa5EgDTNAkl_t6_-M8XLO4VNLYQdvthp7KPcPi0-eVehZJ6TZhoO07Avt0jwHt7t3NWeRQbQHYBck2qK3ouncHnX-IvgFkI7REXbVbG4Vx3iGPrJL43ei7s3AovS8bHMPnmU0wSIa25ve4Tdey6JGbZw=w1608-h1206-no)
+* 일본에 가면 역시 소고기 [Tenkaichi](https://goo.gl/maps/GaU3XNVrqoz), 120g 1,200엔
+![](https://lh3.googleusercontent.com/0aYOZ2oLL0tyBmgZDNIRbGRAcoN_yAKNaUCaEAa5WaS1AeUmz_CP55-Kgumv1AAskmGXP9d0UbTUiBnjoBvxMOwe7gjsUbzDXpt7RpSmMCxxCqS89PXO4DwKp-J6VUfsyAOXvSOuvj5XHRg5r3i4cEPJbRDXMLHo9tQdntQrTURPbZNH6xmNBIlrcOO23NtThP1GoEl1RtflUwpnvRA9qM7JT6P102VmVjoE7VNMyTgnR0lZkN4ycS5CAnFOwhVl4xJd_UAvG8I_gQXFYINlgcMeXyTotVioVtxz1b2U9bjPp1dN6MBGoZdCKsktOdUkHOhSdYZw43LAMHeAQyOYiK3RszU351ysnAZWTl1JB2E7hzZWuFgsyO_vTlrCkzkZ9damMCx0hUxuoc0Lw8cnog_PxrUhTIbFDrcmTwhiDy6nDY18Mkv7EGNcgs4kZiCw4t9G0l5JTos_AsL5Mv95GwE--NI41doXGFYdHFchfu6tCVOyUD3YQi8nLrq7S3jg5e0SFYgail7_0JR2w_PoKJAoE0poPMQAfHmTQtCOpkSFFDCTa0m3Ch4WY2YtBrYVL5pPU9JWSjtMOV6Rz1Ua37_U5pAIIllTaSL2iX4QjWzP7q0CZTEKPbeZoKUzPs7FQgci6rVERy18XHY5Hf_zE6utsBTlg7XVVopkf34XhEVY4J_dfsANoI-ueqGTRVriPjprNd0viQCCDnAggoQ=w1422-h1896-no)
+* 두번째 우동집, [うどん本陣山田家本店](https://goo.gl/maps/HYSG8ALWjDL2)
+![](https://lh3.googleusercontent.com/skO6l9bmce7pgr9nmA7BGEXWn2G-0BTXfIwxvV0PlFTQkkjYZaxtwyQc2UD4KECY-Ws9anKPp9FJ8gvQan38DigKHJ3y7IKD6gnU8QR22ZQ2tVCiuv6PONYBNTBPCZ-a4KWBOwk2DrVveg2siwZAw3TYHaJBvxEsQEjnZ6HFlXKxW7y58dvqYpR97kqIgDmBukrl97fnXiKdREmmVWUnSO3r2y60OkgkL1_KBW94jhmPK9ovVzempo2Yzz1RBMz5nR3tbp3C_EWox7Cm9ZWaZcm_q1boZJDBU4nloI-fku08xUNw_GB1SobBAfg7QOa8IypHYFRd34nMLjo-dG-qMqQI2cFttuBU09lP5DvXqEx17zqZFAWdYe68_88gi-AlxAHfKDaSYeGlELgU0clT7e1xXoHLtt94oUbbejY7UUdkAnqvhr5y9bH6GB2U9Wp8ZDo0MRyGYY-J5qVNdcvTxZUV7IXzmFKSbuMFHQc7003ecIQdKDF92UcMi1PYL5CyYlP3BpWoi8WqAfswwVYopnVyoWmY1YHnYibabSF50oX-gcJ2Dd9LggoBDt1L5F76p_6taxCcOrYYpr-UJeSv9WxTGEUk9tHZVdvuI5Ogz2peLO5d274oSQySTgxKm2jFr4TLewfPu49KRfaYdbCxjX9I4qReQFVbwL2NehN0qII1tJPiHfO8g8DyFO9hdZTf8t_4vj5lSza7U6XlP8k=w1608-h1206-no)
+* [Yakuri Temple](https://goo.gl/maps/amtQ8jHmy522)
+![](https://lh3.googleusercontent.com/8GY2ZT1SH_ehAEwDnc0_jFPF14eYp5VLzBUbK-vomrG-SnjN_jmwIZ9o18PpUKbTCjkF5u4F-ftHjDj-HNwRUf_lua5h-U-vVHcwu0uPHDYWNilLca9t2mFmedJBWWI6FzINXznTsoJRpZb1KeY33C9eRIhR6twffTwbwxECPdUtrauVXh97ab24OiwECSfV3JXPhLp0MkSBSmOXgcBli1jQ8k_YhuhK_w43SVrs7w2uH9SD6X2qosL7MyyTztBco4d35fmvQjIYjOsA9XTQPQDu5Xgj5e4N0iYhAa7O2iVTwnT1ZDQM6CGjXKwlDY8-M6OZjL0bIOU8b8baj9y4qG60Pz8HmWgY6Kq8fA5pWp2M4dI9f1wpfcDGHT48bm8YdxH3oGJKM6q8yFrEcdPPFcEmnZb9MMkpbHLpJsD0ZDqgSuBXKohFc2ghm9YAjKWOsv7tzv-Fl_hqihb8GPVoqpV_AA3xe9wV6feacv-Za1rmsUQqtw61dG4knFFzmKrRe5Gktg2lSk6G7MVcamCtA4Adp7Eu-Mt1feT6DD2aNkW8Zb2bISQ4EckreT6EX1KbwSuguUx8872sgn0mzZc5MVJ3GdjT2SMlWnywYtw6YKy3IQHqgUDHdz-tJiKWAz5gGLfGqmOCs1cG8UaiX3QaLpueQ542mSmgQ0K1uBrcxdw5gutWZdDBmqSHnzdRF9w-HVMXPL9ELeFNm7dCFTM=w1608-h1206-no)
+* [치치부가하마](https://goo.gl/maps/L5p7JJmDHGv) 해변
+![](https://lh3.googleusercontent.com/8Dj08OzuifhOq0dCbqd9JbwJQobca3K28egzVerdgcGoK6UU0NUpuZYF3rheNpAhvJZkfYPl67fb1RrfHWm0jqWNTUpSQSMtHqbWeZ3Gmu7aHNUboBwHaZIlcrt2FVEuALA8kx7P303HGFNsmuYy5gKRtmtZY4ZCKSLM2kLNQRZG_ozDGKEoFNnWgCyy7kcTbl13uzO3Oj3_-n4Vb9ncdad_1aLHEdrjhYw07iW1-Xrdem6QqauWPf9D3_WDyUabKR40qExqvrtRw_ASCTYK8UYjP0m5vBsWE3rx8Qc0kClrjBEZA_5yG0YxsGuh4B0p7Ou11THk1G_qV_iGw7cxmU9Rl47UwCjcF99MLqVGTHxfvqQiizAJjxEJKe-iA9XyhBbQdsIjY7S-X1Q6mKrxlA2bAY-nATL6Nx8qVAE6r12q_ZP6PXL4ZECw11PB_pmVOKCLkl5BA_y52ABWsDwsk0d7kS7C3h7LXNZehFpp-RJVNlRiFLzSvQTjM61hJj8Zljku0cmzQbMFAxHds604v8t-pl3W7G3pIxhgQOALUwZtxroLQfHu1sJWMUNHkb7HAQcucJ8ylUtbZJtYO0lto5jpHa3s8doyvNjXmD0EvngW9TLDXhUFDbRDwPjeLjx7mMtbCC_tMihorGC75BAUYNzYjbeRKAYTuOo5SvdNQFXvGp_E-mtEtr4zUaP1kN9Nzs1Jflfqsog6juSX7ag=w1608-h1206-no)
+* 일본은 역시 스시, [Sasa Sushi](https://goo.gl/maps/YpCJVRE9TwJ2)
+![](https://lh3.googleusercontent.com/_hfrZhTXK9Aa6T0UNzsu3HO33PJ_fa0oI6Sk52wPHH6IfVG4hvnRWEbVtTZ5hTFhX6z_I0yyej6rE4UKrd9k6e97LM032x2Jr-l4CMD6OgriEWvD0w_rUKq3U1jpnSpDZl5KPm7O3qOApvdRPMlVfq1iWXp20i9eenf3OopzZq5pYJQgl_NJQtTgVQWsXB4lcjGRNEpQi1h3AANkZNvRgs1zgOiYVfZetPqro5c4_CWUpb6k-ZR5vAMJlkLOzRgD7oUw4blCwR2cjF2NEYLLc97TPrtEBZzP68Ld3mZ4XCqz1cYOz-aZmQQAM-OMBfWOx6z5jvSMD3q7Rjfdhxj72MbvATSPYaLRzkN91GUDzlmRfmQJOzNR8TB63LTQsbPqqOQXaiM6X7oEbnhiiePIFJLdlcdFxTdoybHnhcfz1rJVOy87C41qLttkJ3g9tER4vIdmbHFLzDJeBF5TFg9IrhuSezzCNhhQ4CFReEZXPYKJuh9hTJz50neW-Dz42Xb34ARHFpASO9hOTFEqRBQIdMGnuJE4XO2qeAz7aFAFnpiImzYiTRwCkxQ03zsuiMCdtxRivkIBjEL3egkhwt9S9H2NQmMW0WPwNxlKFUIuXHa5mSjiiD2_szW0DK3LHMg6LusMFnVv5IVI75Qr46nhsbaE02I5GPQGADO1z6FEv7nu2KjGqIyDchqrZt7825q0j5pZCWZ9xV1SoTGkfzU=w1422-h1896-no)
+* 호텔에서의 전경
+![](https://lh3.googleusercontent.com/ZCyOP6ro4Jpv-Z0vUDPIaaHrLCvRBET-P3KPaNWKevWrs5xrKFXLKSLHh-a352yx_t5Gp7iSLzFPy2q5SlICII--3V2Oz-36PbmNjPs4Z4X_VJ14B-GiRegB7gKYsAFwLv5plEXVUWti3pnaRNKejlKTp-eh3u_OJoLkZcXsXVAqn0pAw2BV_mPP7XZLuvqG_I3C6YDGcG9eHqvjUJ4U2OIg8oR9OmkxjLyvhBlpxyMjByxmTik2CJ4XBVkTJXC_hrf6fA5RQEBzYA8hlaHEqn-1jZhMmJ7apQ0s-NdUB0jTAnK8oI2vPnL9KDcFV_RfkCXLAmf2sYs3pW3IHlt5cXx7bBdO2QRQgACghx6ClpToNwNZ0h3Hi_LJvBXrZ-6M8ZYxDJXNnze_4H0cLhBx0gF6vZbzife_6UNjaHrPB7yDq4vk9z-Oy0QvkfsuAzEavajrLN9brAPqBQtjCxZ8mhg0AuV7R8Tg7EAIRAtqge7nNa3fi5p276_7Vy44Rw7qylEw2hSyNB4uwa0IoskIkrC2e-uNNn4e6BH_svaMpMCbhEaQj9ZH0RB8OzxDst4MDsvQtarqrTPF0jXmz7oW-FBoqNyoqLX7F5HA2yWyIf-_v5NT8-iUJRj9ZGUyubqI-6qMFsDljl2JU0eP0RyCrbBFH2MKBHKdMB5eLdNJVf3wJO2XuXeXA3UU5iFcVuYJVHvQ1w2M_y8nqTH4BOQ=w1608-h1206-no)
+* 해변의 무지게
+![](https://lh3.googleusercontent.com/gRtqw4alWqHAExAS9eD9wsShMLTqpOHNQTxAOuGvNcS2m-w_bwqw_6SnpbbKSZC6b2HFtRuOgjL35UkYBwqEgn3fGjUSyMQfgAuu7-hDrvbtjTRNLtBApdbwImghssatfhBytdNBUiBsQzG7tbCcz1tqKY7HSoDe1Vc1L8pjuK8JjmOOfsGTEizBjBwNLJj2XVP8iCx9rO3zOqqxGkYCDmCm7ok61fORkoO8TVPwlqnwif0CKWBflf8jwUNUSRcY7pHwHCfZaEgsi-37EoxLVBskQQ_2ssdMf-LQWVy44GSX3p_wRBx-BoRKYmrhys02kA6gPeQgwaEFmcl5Fuc8G-mKAgEdjENejJGFFHqhmDwFyvL5T8En8o4eM74dCpWKlZbWgQUr5Mqu9G95QXbXefmq2OPfICYZ52dCwokcYb7KJ_Ao0fruUKR0DoNM-HHQFOZmu1Ne1ZOWqa-fPXJ8IFspm8DcIcFxeow8WwD7elcV2BgRn7NfR09lirTEAD_Ust8PVxECov6LYN1i4XwV4NktxPq5Ty-8ExGON0hgsGu4yxN2EtdYi1ZSCKH-3DNs0v1UKcL4G9Wn8nurV6J360eMrggIiRJ8ri5MKBa8pF-1x3alHmgCQUSoSLM5_gx5d507aa4xBjV4Crk7L7A42z48GRK-Lxxs0hYvr9-7SINitbXZ8-MymAkBHLupZorl4b8Kdvt37DdRPUIGh-o=w1608-h1206-no)
+* 3번째 우동집, [사누키우동 우에하라야본점](https://goo.gl/maps/oCfFcE2w87v)
+![](https://lh3.googleusercontent.com/omk17NcoufmXB-l8Xd15VIRVCInvqpRWmfo59BNXBpAEZGOx2zPK1DAHCOrin6UPySPhu7u3JUeMy4hrXg0lY7zRciyyz7v-DV5LPKR114O1bzkRE4VTQbCjtRcCGMg1QvRoDkQU4V9TqrJ2tdtf58YImrhY2lt0Q7UFsY4oXVZISRYNKxMZZoD1P3HL9lkrY8zNYa4nSmibbs7EOZpJsna63cVYW9pE8IS2bBHseAfqJ0tfZNxEYpgh1hsh7wj8PyMCA4OC-Ig7GpKaLEoTPv11jOau-26xbTtSQ-EgbtKa-GZ5K1XmfCzedB3rn37WlA_wuSd5GB8L-K78fBO-z2IeVncIvlBgF216IJeJsY98dANv9iS8jkn14Qf4b0bxGNzBGZNrbFgx8NzQ6nRQpehugEaPtLmVBTJVqmani2V6H1zkngMR_aX0WEY5igTjJKkOay7eycIc6vI9PyD-GFMqivvVbeYha21v5LKUfyyYvcxPy0hmZs7V_UbrNMvlJf9YAAcPFNpStIKba2mvvGJKp9VJFCSHFE7M3siVpnykXaGVO9608Pzpbrs8w5CLtoylhX37F3UuFRkpMUy10SMidxtEOlNSLGPDWuilHFILNYunTl_vAdxIm2Pv7y4UK2muBn-gvXuVLgRwvQ234uuaNFVskrgtbhsbcnwTyle7hhuVA_N0iDxB5uNtDp3T42m33lawk-lGRDRGtB4=w1608-h1206-no)
+* [리스린 정원](https://goo.gl/maps/UtgzosXCcFm)
+![](https://lh3.googleusercontent.com/RojpsLl2ez0YLeP5UM25ia6UhiYiJm8l3OP8H5hI5i7A_V8XKH0jM4nMCRTVTSxrJ2tZYQPD5huwqB9pGYC1sH8zsNUlFc9Bhwx1-XXJ9e5-JJd2R9WREbSW7L86YWEqwWtzigQmvDnnsAyEg7qw6FzbboI5HcAn5p_S2fpYxadJbaEPzpFzNVaLtLe19vWlCp7GR_n0yqEHxmKqG0eizaJyz74nmJJtkGWV8kIlDeIQvBGvklA9_kRtu5Hefcqu391hzzr3IdmF7jz7q4nVXgffHdsfY5QlRKVNaaFS4RBUwzABLNqIgt3PWadSVVMmlBx72ezpNTOKnbtRlzwqrdkXJmnWItCYQtwYlwEuo8QVYaDiM1FDfcnEdTqHnLSK5p6k9DbmZhXDsuXPrmBwGVigVQKexEbruopHrNHzQ2O2XA3TXZlQ5JNYGhW4i32F9YUrAdWGqhYpj71oUCBwDwtj59GxNx2-JhJEn1TevVkTkSniEJ3bhch0yubpB95zsXYHCDjb2s6eW1NHy1XHmXz_HkzSrcMZh31kENyLik0W8KW2thKPrfqYp78nC2O6vsnedmw__JbmRinSEmePLx6AGewGjvPgsHu9tx4-lxfitzAdROwbVDh_qSPcl3DUFF8YNw9nfw_hH881nj13onkVrvcbAfkfmC8sB9I80V-zwL_nkm4NBGjagshju7kjFyxyG_fRthGesMtjNHo=w1608-h1206-no)
+* 4번째 우동집, [우동 바카이치다이](https://goo.gl/maps/K6iJNAEzHap)
+![](https://lh3.googleusercontent.com/PAxAX0LBFwOlD-TzHVUsgnQ2Xz9tqWrG2qvtQbdCym3NN_OhGwpk_-MIBeoIpXKRE-tlNtjlG-WuAhBqgozY4g3dWWmk3LTbw1c-oWGTlV_AF1zR7SJf9elGTRB4oIprZ7_ShwKZlDfQ1-MjYHivkil-MrHUxOiWh5wqNUJ_IaGWA23hkSIgwEOI-Gc_C59tnY_OIE-UFyb5N3FnaZFD5yDjoMhdvl-yste3nDJvMdv6wbiUAUs1cu0JWwnwTP1alYdTT-v2Hp9LXolYoWwAMG-Jw7VfdyKtDOnZXan24cR6Mi4v6UtHKg5DdISXQpRZQkyQvvRg1AVnMbVld7-nR1wQUc2Z1Pspf3MR-Y0W4yYPMDBSuLOTKD6oR57Rq4MWET1yUhVVfMsK4rOTEr5FqG_04MCKUiT7zHEPYXR4x3z_Jpb1L0PPqGgffTpMJhpidIbu1N0VKDKZuM7uMJOQYqkawORGuETuJbyKDACW0bTaC6Ztm0hr-_-CKCUV7GwSzKC0UUG1-_tbKE90LN2TxWPHCqWoRP5-OTCANGSReGDFkR1qak_v5UqlvTDQ_WfEyDUbrOWB7tJzShy8rSHhrqAmf7f8bO7uwGgLEX1yjnBB9qBJci0V3RboJuayDgDlaRftyGZtmIPzp-ljorkRaKNZWTJTmYKdEjLgPPWj6DY8p4mIG7YChjs9uO5_5k2V2IjlP7uQNWCYv5UTAkk=w1608-h1206-no)
+* 보따리 장수, 라이언
+![](https://lh3.googleusercontent.com/AZXL6K4vK58-eEXMM2pC9G0PsOKYYgvQvEk-EOnhX0IZ5T6RpeJM0K0jLZi8Xh8soZh9Fy2nxYtsxJPy8AjErbhdWSf2ngflRDSF5o0ZF8lyqijsaIcC2wZOgWEjlLg9uZnfZfmnVWX-lNGpcJXAXGDgGLnaqOiIHoPAvgH1J2xWJLVVva5-lqIzL7FMHe6GsQysW-k7Ptwa0gLs-RZq9CpzVNEqG9bvi_AUr2pvs6T6Q5W1oDtmt6NQtYrJVVZv_ntSJQuQc7USnKCzf3AbQOlpi12nGVGz8kR0Tr1rMyaEztrtqAYY9two7UfiNsruvMXlRmijAxsi8Fia0kXAXyJNtJspegGY9SyYTFguPbgkXcDFW15rbKdn2h3-3HYBheJQwXZWTFVuOae3p4NI43XaWmuv_HjYU3VJmJYyFNTCekdLio7yYYAGSTZt-pMwdGljaKkH3GCiTLu2Vi8p3ygILdlZ3jEYhHkSzkqY4S2CihLIKyrOVJJH-mAZY36pBGFUf4CcXZCY1mnUpthpUe9UT0O82Ri1kZtOovckGk-ggQB_CbIyAhmap6O7Sv2NIkAXntKONSmmH7wFR_RWJlOdhLZF1I_kAKvtBIt9fyM_MmQq5rxivi3aRLlQqyCPQ02-vYpmk11Sbz95qlfKMNGc2p-X8qUkj0oOzjpG2DD91DPfCodCErj4VBceic4fMYZa01lLhNdpVcU8SWE=w1422-h1896-no)
+* 더 많은 사진은 [클릭](https://photos.app.goo.gl/MBEvxBWXGFPseWV98)
+
+### Wording
+* 준비했던 내용은 [클릭](https://github.com/muraYlion/FelizLaVida/issues/73)
+* 이번엔 경차로 렌트 (가격이 싸므로)
+* 닛산룩스는 경차임에도 다양한 부가 기능들이 있었는데
+  * 버튼 시동키
+  * 뒷문 자동문 & 운전석버튼/원터치 open/close, 이건 정말 편했다.
+  * 와이퍼 자동 빠르기 (센서), 오토모드인 경우 알아서 속도를 조절한다.
+  * 후방카메라 및 어라운드뷰
+    * 센터페시아 화면에 노출되어지고 백미러도 영상이 노출되어 주차시 도움이 많이 되었다.
+    * 특히 어라운드뷰는 필수 아이템인것 같다.
+  * 전자장비 터치 방식
+* 우동 맛집이 많다. 어디든 맛날것이다.
+  * 개인적으로는 [사누키우동 우에하라야본점](https://goo.gl/maps/oCfFcE2w87v) 여기가 제일 좋았다.
+  * 가격이 일단 싸고, 튀김종류 많아서 함께 먹으면 좋다.
+  * 식사 시간이 짧아 순환이 빠르다. 그러나 가게 규모는 크지 않다. 
+* 스타벅스에서 두가지 구매
+  * [솔로필터](https://m.blog.naver.com/PostView.nhn?blogId=seoheya&logNo=220385966469)
+  * [홀리데이 2018 스테인레스 텀블러 핑크 355ml](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2246645443)
+* ZARA 겨울 상품 구매
+  * [OPEN CARDIGAN](https://www.zara.com/jp/en/open-cardigan-p00693351.html?v1=7327505&v2=1172515), 정가구매 ㅠㅠ
+  ![](https://static.zara.net/photos///2018/I/0/2/p/0693/351/401/2/w/1920/0693351401_1_1_1.jpg?ts=1542101980800)
+  * [STUDDED BLACK CROSSBODY BAG](https://www.zara.com/us/en/studded-black-crossbody-bag-p18085204.html) 일본이 두배는 비싸다 ㅠㅠ
+  ![](https://static.zara.net/photos///2018/I/1/1/p/8085/204/040/2/c-128-0-1586-2379/w/1920/8085204040_2_2_1.jpg?ts=1530708489958)
+* 무인양품 겨울 상품 구매
+  * [포케터블 노칼라 코트 - 여](http://www.mujikorea.net/display/showDisplay.lecs?goodsNo=MJ31101633&displayNo=MJ1A01A01)
+  * [포케터블 노칼라 코트 - 남](http://www.mujikorea.net/display/showDisplay.lecs?goodsNo=MJ31118142&displayNo=MJ1A01A01A04)
+  * 딸기잼파이 약 20팩 구매
+* [다이와 로이네트](https://goo.gl/maps/na2GxLyRvDK2) 비지니스 호텔
+  * 건물의 8층에 프론트가 있으며, 룸으로 가기 위해서는 다시 전용 엘리베이터를 타야한다.
+  * 생수조차 지급해주지 않는다. 단, no clean room을 신청하면 생수를 서비스로 제공한다.
+  * 9층에 빨래방이 있다. 하루 1,000엔의 VOD서비스를 신청할 수 있다. 그러나 TV가 33인치정도로 작은 사이즈이다.
+  * 주차장 이용은 하루 1,200엔 이고, 주차 후 주차카드를 프로트에 맡기고, 이후 나갈때 주차권을 프론트에서 발급받으면 된다.
+    * 마지막날 가방을 프론트에 맡기지 않고, 24시간 주차권을 발급받아 주차된 차에 짐을 실어두고, 돌아다니다가 공항출발때쯤 차를 빼면 편리하다.
+  * 프론트의 직원들은 평균적이었다.
+* 세토츄오 자동차도로를 통해서 오카야마쪽을 가보려 했으나, 건너는데만 5천엔이상 비용이 발생하여 포기
+* 리스린 정원
+  * 잘 가꾸어진 정원, 일본인들의 청결함(?)이 그대로 배여있는 정원같았다.
+  * 사진으로 보다 실제로는 그 규모가 작다.
+  * 적당한 속도로 돌아보면 한 두시간이내에 다 둘러 볼 수 있다. 
+  * 날이 좋을때, 특히 가을 무렵의 단풍이 드는 시점이 가본다면 좋을 것 같다.
+  * 야간 개방([라이트업](http://blog.naver.com/PostView.nhn?blogId=tierf&logNo=221421141416&parentCategoryNo=42))도 12월 첫주에 하니, 색다른 모습을 볼 수도 있을 것 같다. 
+
+### Thinking
+* 24일 하루는 장애 대응하느라 대부분의 시간을 호텔에 있었다. 
+  * 마음은 조급하고, 컴퓨터가 없으니 대응하는 시간이 많이 걸렸다.
+  * 대응하는 동료가 있었지만, 함께 해야하는 상황이었다. 
+  * 앞으로 이부분에 대해서는 고민이 좀 될 것 같다. 담당자가 부재여도 잘 대응되어지는 시스템으로의 정비가 필요하다.
+* 미리 모든 것을 준비하는 여행도 좋겠지만, 세부사항은 도착해서 정하는 것도 그렇게 나쁘지는 않는 것 같다. 
+  * 시간에 너무 미련을 가지기 보다는 다른 나라에 서있다는 것 만으로도 행복을 느낄 수 있어야 하지 않을까
+  * 함께 가는 사람과의 호흡도 중요한 부분중에 하나 일 것이다. 그런 부분에선 뮤라에게 고마움을 전한다. 
