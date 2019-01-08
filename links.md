@@ -43,4 +43,5 @@ permalink: /links/
 <h2>Github</h2>
 <ul>
 	<li><a href="https://status.github.com/messages" target="_blank">github:status</a> <span style="font-size:14px">We continuously monitor the status of github.com and all its related services. If there are any interruptions in service, a note will be posted here.</span></li>
+	<li><a href="https://blog.github.com/2019-01-07-new-year-new-github/" target="_blank">The GitHub Blog</a> <span style="font-size:14px">New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering </span></li>
 </ul>
