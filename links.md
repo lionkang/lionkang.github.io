@@ -31,8 +31,7 @@ permalink: /links/
 	<li><a href="https://www.youtube.com/channel/UCET3I7YOuGTO31OlYdg2B_w" target="_blank">신세경 sjkuksee</a> <span style="font-size:14px">진사누나 신세경입니다.</span></li>
 	<li><a href="https://www.socialfunch.org/" target="_blank">소셜 펀치</a> <span style="font-size:14px">‘소셜펀치’는 사회운동을 위한 온라인 후원 플랫폼입니다.</span></li>
 	<li><a href="https://map.naver.com/local/siteview.nhn?code=20415592&_ts=1544934079860" target="_blank">두리산업</a> <span style="font-size:14px">폐기물수집,처리</span></li>
-
-	
+	<li><a href="https://script.google.com/macros/s/AKfycbx_ltpkkdJDs_NEOe74WLIsJd4zfJMFSR8CfRblMxc/dev" target="_blank">영구이미지주소 GET</a></li>
 </ul>
 <h2>jekyll theme</h2>
 <ul>
