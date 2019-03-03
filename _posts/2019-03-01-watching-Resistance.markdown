@@ -7,7 +7,7 @@ categories: watching
 comments: true
 ---
 
-2019년 3월 01일(일) 오전 8시 50분, 아리랑씨네센터
+2019년 3월 1일(금) 오전 8시 50분, 아리랑씨네센터
 
 ![](https://movie-phinf.pstatic.net/20190207_119/1549515732449nv5tM_JPEG/movie_image.jpg)
 
