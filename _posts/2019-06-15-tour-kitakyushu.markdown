@@ -23,7 +23,7 @@ comments: true
 * 주행거리 (100km미만 주행)
 ![](https://drive.google.com/uc?export=view&id=1i_-Wg0toj7gy1pOYOAB-cd6a6c0eE3p0)
 * [숙소. 다이와로이넷](https://www.agoda.com/ko-kr/daiwa-roynet-hotel-kokura-ekimae/hotel/kitakyushu-jp.html)
-![](https://drive.google.com/uc?export=view&id=1LaCoaCktaeHgMzylUSisS5bCN9FGEO4R2A)
+![](https://drive.google.com/uc?export=view&id=1wgPHVlupOLfeGixVrxnkUQK70OzkDZnD)
 * [이노치노타비 박물관](https://blog.naver.com/osjkim99/221485919242)
 ![](https://drive.google.com/uc?export=view&id=13id8oy2o7PV199lVhcICirUSohdSJo4q)
 * 시라쿠라산 전망대 석양
