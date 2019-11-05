@@ -15,6 +15,7 @@ permalink: /links/
 <ul>
 	<li><a href="https://madplay.github.io/" target="_blank">MadPlay</a> <span style="font-size:14px">공부하는 개발자의 이야기를 담고 있습니다.</span></li>
 	<li><a href="https://nypark425.github.io/" target="_blank">Amber</a> <span style="font-size:14px">Do Something.</span></li>
+	<li><a href="https://sosohanya.tistory.com/" target="_blank">소소하냐</a> <span style="font-size:14px">냐냐의 일상</span></li>
 	<li><a href="https://github.com/naverunion" target="_blank">공동성명(共動成明)</a> <span style="font-size:14px">함께 행동하는 네이버 사원 노조</span></li>
 	<li><a href="https://subokim.wordpress.com" target="_blank">IT의 중심에서</a> <span style="font-size:14px">중년 개발자가 살아 가는 IT 현장 이야기</span></li>
 </ul>
