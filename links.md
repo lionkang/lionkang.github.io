@@ -23,6 +23,9 @@ permalink: /links/
 <ul>
 	<li><a href="https://scubaforum.kr/" target="_blank">scubaforum.kr</a> <span style="font-size:14px">스쿠버다이빙 이야기</span></li>
 	<li><a href="https://www.ted.com/talks/guillaume_nery_the_exhilarating_peace_of_freediving?language=ko" target="_blank">TED. 기욤네리</a> <span style="font-size:14px">프리다이빙의 상쾌한 평화</span></li>
+	<li><a href="https://www.facebook.com/oceankind" target="_blank">Oceankind</a> <span style="font-size:14px">바다를 위한 생각, 모두를 위한 실천
+오션카인드는 바다를 보호하기 위한 프로젝트를 진행합니다</span></li>
+		
 </ul>
 <h2>eTC</h2>
 <ul>
