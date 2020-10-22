@@ -14,7 +14,7 @@ permalink: /links/
 <h2>dEVs</h2>
 <ul>
 	<li><a href="https://madplay.github.io/" target="_blank">MadPlay</a> <span style="font-size:14px">공부하는 개발자의 이야기를 담고 있습니다.</span></li>
-	<li><a href="https://nypark425.github.io/" target="_blank">Amber</a> <span style="font-size:14px">Do Something.</span></li>
+	<li><a href="https://staywithjoy.github.io/" target="_blank">Staywithjoy</a> <span style="font-size:14px">하루 하루의 즐거움이 모여 삶을 이룬다.</span></li>
 	<li><a href="https://sosohanya.tistory.com/" target="_blank">소소하냐</a> <span style="font-size:14px">냐냐의 일상</span></li>
 	<li><a href="https://github.com/naverunion" target="_blank">공동성명(共動成明)</a> <span style="font-size:14px">함께 행동하는 네이버 사원 노조</span></li>
 	<li><a href="https://subokim.wordpress.com" target="_blank">IT의 중심에서</a> <span style="font-size:14px">중년 개발자가 살아 가는 IT 현장 이야기</span></li>
@@ -32,6 +32,7 @@ permalink: /links/
 	<li><a href="http://ppss.kr/archives/61578" target="_blank">ㅍㅍㅅㅅ. 자본론</a> <span style="font-size:14px">11장의 카드로 최대한 쉽게 “자본론”을 풀어보다.</span></li>
 	<li><a href="https://earth.nullschool.net/" target="_blank">earth.nullschool.net</a> <span style="font-size:14px">a project to visualize global weather conditions</span></li>
 	<li><a href="https://www.windy.com" target="_blank">www.windy.com</a> <span style="font-size:14px">Our goal is to provide best weather forecasting service in the world</span></li>
+	<li><a href="https://www.youtube.com/channel/UC3SyT4_WLHzN7JmHQwKQZww" target="_blank">이지금 [IU Official]</a> <span style="font-size:14px">아이유(IU) Official YouTube Channel</span></li>
 	<li><a href="https://www.youtube.com/channel/UCET3I7YOuGTO31OlYdg2B_w" target="_blank">신세경 sjkuksee</a> <span style="font-size:14px">진사누나 신세경입니다.</span></li>
 	<li><a href="https://www.socialfunch.org/" target="_blank">소셜 펀치</a> <span style="font-size:14px">‘소셜펀치’는 사회운동을 위한 온라인 후원 플랫폼입니다.</span></li>
 	<li><a href="https://map.naver.com/local/siteview.nhn?code=20415592&_ts=1544934079860" target="_blank">두리산업</a> <span style="font-size:14px">폐기물수집,처리</span></li>
